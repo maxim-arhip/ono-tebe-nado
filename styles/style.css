@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-left: 50px;
+  padding-left: 25px;
   padding-top: 92px;
   padding-bottom: 92px;
   padding-right: 50px;
@@ -50,7 +50,7 @@ body {
 
 .header__logo {
   margin-left: 47px;
-  margin-right: 197px;
+  margin-right: 192px;
 }
 
 .address {
@@ -88,7 +88,6 @@ body {
 .content {
   display: flex;
   flex-direction: column;
-
   padding-top: 165px;
   margin-left: 50px;
   margin-right: 50px;
@@ -157,7 +156,7 @@ body {
 
 .bottom-content_text {
   font-family: Raleway;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 28px;
   color: #ffffff;
@@ -197,7 +196,7 @@ body {
   font-weight: 700;
   line-height: 46.96px;
   text-align: left;
-  margin-left: 64px;
+  margin-left: 40px;
   margin-bottom: 27px;
 }
 
@@ -274,7 +273,7 @@ body {
 }
 
 .about {
-  margin-top: 146px;
+  margin-top: 156px;
   margin-left: 24px;
   gap: 0px;
   opacity: 0px;
@@ -320,7 +319,7 @@ body {
   margin-top: 181px;
   margin-bottom: 88px;
   width: 100%;
-
+  min-height: 100px;
   border: 1px 0px 0px 0px;
   opacity: 0px;
   display: flex;
