@@ -13,6 +13,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-left: 50px;
+  padding-top: 92px;
+  padding-bottom: 92px;
+  padding-right: 50px;
 }
 
 .header_links {
