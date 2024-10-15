@@ -331,7 +331,6 @@ body {
 .footer_address-item {
   display: flex;
   position: relative;
-  margin-top: 40px;
   margin-left: 35px;
 }
 .footer_address-links {
