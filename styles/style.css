@@ -316,7 +316,7 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 241px;
+  margin-top: 221px;
   margin-bottom: 88px;
   margin-left: 50px;
   margin-right: 50px;
@@ -331,7 +331,7 @@ body {
 .footer_address-item {
   display: flex;
   position: relative;
-
+  margin-top: 40px;
   margin-left: 35px;
 }
 .footer_address-links {
