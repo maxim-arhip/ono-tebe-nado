@@ -147,7 +147,7 @@ body {
 
 .bottom-content {
   margin-top: 135px;
-  margin-left: 78px;
+  margin-left: 28px;
   display: flex;
   align-items: center;
   gap: 79px;
@@ -316,7 +316,7 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 184px;
+  margin-top: 185px;
   margin-bottom: 88px;
   margin-left: 50px;
   margin-right: 50px;
@@ -367,7 +367,7 @@ body {
   width: 48px;
 }
 .footer_menu {
-  padding-top: 45px;
+  padding-top: 35px;
   margin-right: 50px;
 }
 
