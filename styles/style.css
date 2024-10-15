@@ -273,7 +273,7 @@ body {
 }
 
 .about {
-  margin-top: 156px;
+  margin-top: 160px;
   margin-left: 24px;
   gap: 0px;
   opacity: 0px;
@@ -316,8 +316,10 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 181px;
+  margin-top: 251px;
   margin-bottom: 88px;
+  margin-left: 50px;
+  margin-right: 50px;
   width: 100%;
   min-height: 100px;
   border: 1px 0px 0px 0px;
@@ -329,6 +331,8 @@ body {
 .footer_address-item {
   display: flex;
   position: relative;
+
+  margin-left: 25px;
 }
 .footer_address-links {
   color: #000000;
@@ -354,9 +358,13 @@ body {
 .footer__social-list {
   display: flex;
   gap: 48px;
+  padding-right: 50px;
 }
 .footer__social-list-item {
   width: 48px;
+}
+.footer_menu {
+  padding-top: 20px;
 }
 
 .lots-card {
