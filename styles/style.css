@@ -273,7 +273,7 @@ body {
 }
 
 .about {
-  margin-top: 160px;
+  margin-top: 180px;
   margin-left: 24px;
   gap: 0px;
   opacity: 0px;
@@ -316,7 +316,7 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 251px;
+  margin-top: 241px;
   margin-bottom: 88px;
   margin-left: 50px;
   margin-right: 50px;
@@ -332,7 +332,7 @@ body {
   display: flex;
   position: relative;
 
-  margin-left: 25px;
+  margin-left: 35px;
 }
 .footer_address-links {
   color: #000000;
