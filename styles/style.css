@@ -316,7 +316,7 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 190px;
+  margin-top: 187px;
   margin-bottom: 88px;
   margin-left: 50px;
   margin-right: 50px;
@@ -361,13 +361,13 @@ body {
   display: flex;
   gap: 48px;
   padding-right: 50px;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .footer__social-list-item {
   width: 48px;
 }
 .footer_menu {
-  padding-top: 30px;
+  padding-top: 32px;
 }
 
 .lots-card {
