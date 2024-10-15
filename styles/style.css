@@ -217,6 +217,8 @@ body {
   flex-direction: column;
   justify-content: space-between;
   margin-bottom: 30px;
+  position: relative;
+  overflow: hidden;
 }
 
 .card__title {
@@ -369,11 +371,6 @@ body {
 .footer_menu {
   padding-top: 35px;
   margin-right: 50px;
-}
-
-.lots-card {
-  position: relative;
-  overflow: hidden;
 }
 
 .card-overlay {
