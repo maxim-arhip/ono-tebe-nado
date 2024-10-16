@@ -7,6 +7,7 @@ body {
 * {
   margin: 0;
   padding: 0;
+  /* border: 1px solid red; */
 }
 
 .header {
@@ -90,7 +91,7 @@ body {
   flex-direction: column;
   padding-top: 165px;
   margin-left: 50px;
-  margin-right: 50px;
+  /* margin-right: 50px; */
   position: relative;
 }
 
@@ -101,7 +102,6 @@ body {
 }
 
 .world1-1 {
-  /* transform: translateX(0); */
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
@@ -133,7 +133,7 @@ body {
   font-weight: 700;
   line-height: 100px;
   letter-spacing: 60px;
-  text-indent: 560px;
+  text-indent: 583px;
 }
 
 .world3-2 {
@@ -315,7 +315,7 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 184px;
+  margin-top: 164px;
   margin-bottom: 88px;
   margin-left: 50px;
   margin-right: 50px;
