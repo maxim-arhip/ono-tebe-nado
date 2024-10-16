@@ -114,13 +114,13 @@ body {
 }
 
 .world2-1 {
-  transform: translateX(286px);
   width: 41%;
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
   line-height: 100px;
   letter-spacing: 30px;
+  text-indent: 286px;
 }
 
 .world2-2 {
@@ -128,12 +128,12 @@ body {
 }
 
 .world3-1 {
-  transform: translateX(583px);
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
   line-height: 100px;
   letter-spacing: 60px;
+  text-indent: 583px;
 }
 
 .world3-2 {
