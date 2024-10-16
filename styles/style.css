@@ -101,16 +101,16 @@ body {
 }
 
 .world1-1 {
-  transform: translateX(0);
+  /* transform: translateX(0); */
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
   line-height: 115px;
-  letter-spacing: 0.3em;
+  letter-spacing: 30px;
 }
 
 .world1-2 {
-  letter-spacing: 0.6em;
+  letter-spacing: 60px;
 }
 
 .world2-1 {
@@ -120,25 +120,24 @@ body {
   font-size: 100px;
   font-weight: 700;
   line-height: 100px;
-  letter-spacing: 0.3em;
+  letter-spacing: 30px;
 }
 
 .world2-2 {
-  letter-spacing: 0.6em;
+  letter-spacing: 60px;
 }
 
 .world3-1 {
   transform: translateX(583px);
-  width: 40%;
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
   line-height: 100px;
-  letter-spacing: 0.6em;
+  letter-spacing: 60px;
 }
 
 .world3-2 {
-  letter-spacing: 0.3em;
+  letter-spacing: 30px;
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
@@ -218,7 +217,6 @@ body {
   justify-content: space-between;
   margin-bottom: 30px;
   position: relative;
-  overflow: hidden;
 }
 
 .card__title {
@@ -259,7 +257,6 @@ body {
   line-height: 23.48px;
   text-align: left;
   width: 192px;
-  height: 23px;
   margin-top: 30px;
   margin-left: 40px;
   gap: 0px;
@@ -329,8 +326,14 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.footer_address {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.3px;
+  font-style: normal;
+}
 .footer_123 {
-  margin-top: 30px;
   padding-left: 20px;
 }
 .footer_address-item {
@@ -363,13 +366,11 @@ body {
   display: flex;
   gap: 48px;
   padding-right: 50px;
-  margin-top: 50px;
 }
 .footer__social-list-item {
   width: 48px;
 }
 .footer_menu {
-  padding-top: 35px;
   margin-right: 50px;
 }
 
