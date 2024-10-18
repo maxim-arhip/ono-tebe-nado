@@ -296,6 +296,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 24px;
+  padding-top: 7px;
 }
 .about__text {
   gap: 24px;
