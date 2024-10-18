@@ -69,7 +69,6 @@ body {
 .cover {
   position: relative;
   width: 100%;
-  min-height: 500px;
   background-image: url(../images/cover.jpg);
   background-size: cover;
   background-position: center;
@@ -142,12 +141,12 @@ body {
 }
 
 .bottom-content {
-  margin-top: 135px;
+  margin-top: 132px;
   margin-left: 28px;
   display: flex;
   align-items: center;
   gap: 79px;
-  margin-bottom: 62px;
+  margin-bottom: 60px;
 }
 
 .bottom-content_text {
