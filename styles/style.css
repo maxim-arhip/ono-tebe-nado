@@ -112,7 +112,6 @@ body {
 }
 
 .world2-1 {
-  width: 41%;
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
@@ -170,16 +169,6 @@ body {
   background: none;
   color: #ffffff;
   border: 1px solid #ffffff;
-}
-
-.bottom-heading {
-  position: absolute;
-  color: white;
-  top: 500px;
-  font-family: Raleway;
-  font-size: 22px;
-  font-weight: 400;
-  line-height: 28px;
 }
 
 .lots {
@@ -290,7 +279,6 @@ body {
   width: 148px;
   height: 114px;
   justify-content: center;
-  position: absolute;
 }
 .about__title {
   font-family: Raleway;
@@ -319,7 +307,6 @@ body {
   margin-left: 50px;
   margin-right: 50px;
   width: 100%;
-  min-height: 100px;
   border: 1px 0px 0px 0px;
   opacity: 0px;
   display: flex;
@@ -339,6 +326,7 @@ body {
   display: flex;
   position: relative;
   margin-left: 35px;
+  text-underline-offset: 4px;
 }
 .footer_address-links {
   color: #000000;
