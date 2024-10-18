@@ -296,7 +296,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 24px;
-  padding-top: 7px;
+  padding-top: 10px;
 }
 .about__text {
   gap: 24px;
@@ -308,7 +308,7 @@ body {
 }
 .footer {
   margin-top: 195px;
-  margin-bottom: 88px;
+  margin-bottom: 78px;
   margin-left: 50px;
   margin-right: 50px;
   width: 100%;
