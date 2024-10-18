@@ -141,12 +141,12 @@ body {
 }
 
 .bottom-content {
-  margin-top: 128px;
+  margin-top: 126px;
   margin-left: 28px;
   display: flex;
   align-items: center;
   gap: 79px;
-  margin-bottom: 62px;
+  margin-bottom: 64px;
 }
 
 .bottom-content_text {
