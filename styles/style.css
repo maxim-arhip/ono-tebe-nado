@@ -14,7 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   padding-left: 25px;
-  padding-top: 92px;
+  padding-top: 90px;
   padding-bottom: 98px;
   padding-right: 50px;
 }
@@ -60,6 +60,10 @@ body {
   line-height: 24.3px;
   font-style: normal;
   padding-left: 10px;
+}
+
+.header_address {
+  list-style: none;
 }
 
 .header_address-links {
@@ -302,8 +306,8 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 180px;
-  margin-bottom: 98px;
+  margin-top: 170px;
+  margin-bottom: 110px;
   margin-left: 50px;
   margin-right: 50px;
   width: 100%;
