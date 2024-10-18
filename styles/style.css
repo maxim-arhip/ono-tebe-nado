@@ -15,7 +15,7 @@ body {
   align-items: center;
   padding-left: 25px;
   padding-top: 95px;
-  padding-bottom: 91px;
+  padding-bottom: 95px;
   padding-right: 50px;
 }
 
@@ -296,7 +296,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 24px;
-  padding-top: 10px;
+  padding-top: 3px;
 }
 .about__text {
   gap: 24px;
