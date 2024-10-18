@@ -141,21 +141,21 @@ body {
 }
 
 .bottom-content {
-  margin-top: 132px;
+  margin-top: 131px;
   margin-left: 28px;
   display: flex;
   align-items: center;
   gap: 79px;
-  margin-bottom: 60px;
+  margin-bottom: 59px;
 }
 
 .bottom-content_text {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 400;
-  line-height: 28px;
+  line-height: 26px;
   color: #ffffff;
-  word-spacing: 30px;
+  word-spacing: 22px;
 }
 
 .button {
