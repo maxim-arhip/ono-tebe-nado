@@ -14,8 +14,8 @@ body {
   justify-content: center;
   align-items: center;
   padding-left: 25px;
-  padding-top: 90px;
-  padding-bottom: 98px;
+  padding-top: 95px;
+  padding-bottom: 91px;
   padding-right: 50px;
 }
 
@@ -59,7 +59,7 @@ body {
   font-weight: 400;
   line-height: 24.3px;
   font-style: normal;
-  padding-left: 10px;
+  padding-left: 5px;
 }
 
 .header_address {
@@ -147,7 +147,7 @@ body {
 
 .bottom-content {
   margin-top: 126px;
-  margin-left: 28px;
+  margin-left: 26px;
   display: flex;
   align-items: center;
   gap: 79px;
@@ -160,7 +160,7 @@ body {
   font-weight: 400;
   line-height: 28px;
   color: #ffffff;
-  word-spacing: 22px;
+  word-spacing: 20px;
 }
 
 .button {
@@ -307,7 +307,7 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 185px;
+  margin-top: 182px;
   margin-bottom: 68px;
   margin-left: 50px;
   margin-right: 50px;
