@@ -7,7 +7,6 @@ body {
 * {
   margin: 0;
   padding: 0;
-  border: 1px solid red;
 }
 
 .header {
@@ -314,7 +313,7 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 194px;
+  margin-top: 164px;
   margin-bottom: 88px;
   margin-left: 50px;
   margin-right: 50px;
