@@ -315,7 +315,7 @@ body {
 }
 .footer {
   margin-top: 180px;
-  margin-bottom: 108px;
+  margin-bottom: 100px;
   margin-left: 50px;
   margin-right: 50px;
   width: 100%;
@@ -370,7 +370,7 @@ body {
   width: 48px;
 }
 .footer_menu {
-  margin-right: 50px;
+  margin-right: 75px;
 }
 
 .card-overlay {
