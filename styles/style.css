@@ -315,6 +315,10 @@ body {
   justify-content: space-between;
 }
 
+.footer_indentation {
+  padding-left: 20px;
+}
+
 .footer_links-list-item {
   font-family: Raleway;
   font-size: 18px;
