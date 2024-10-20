@@ -306,28 +306,13 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 177px;
-  margin-bottom: 68px;
+  margin-top: 180px;
+  margin-bottom: 88px;
   margin-left: 50px;
   margin-right: 50px;
   width: 100%;
-  border: 1px 0px 0px 0px;
-  opacity: 0px;
   display: flex;
   justify-content: space-between;
-}
-
-.footer_indentation {
-  padding-left: 20px;
-}
-.footer_address-item {
-  display: flex;
-  position: relative;
-  margin-left: 35px;
-  text-underline-offset: 4px;
-}
-.footer_address-links {
-  color: #000000;
 }
 
 .footer_links-list-item {
