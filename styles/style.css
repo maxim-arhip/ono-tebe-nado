@@ -119,7 +119,7 @@ body {
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
-  line-height: 100px;
+  line-height: 120px;
   letter-spacing: 30px;
   text-indent: 286px;
 }
@@ -132,7 +132,7 @@ body {
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
-  line-height: 100px;
+  line-height: 120px;
   letter-spacing: 60px;
   text-indent: 583px;
 }
@@ -146,12 +146,12 @@ body {
 }
 
 .bottom-content {
-  margin-top: 117px;
+  margin-top: 135px;
   margin-left: 26px;
   display: flex;
   align-items: center;
   gap: 79px;
-  margin-bottom: 64px;
+  margin-bottom: 51px;
 }
 
 .bottom-content_text {
