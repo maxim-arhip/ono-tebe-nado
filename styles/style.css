@@ -146,7 +146,7 @@ body {
 }
 
 .bottom-content {
-  margin-top: 126px;
+  margin-top: 140px;
   margin-left: 26px;
   display: flex;
   align-items: center;
@@ -172,7 +172,7 @@ body {
   padding: 12px 32px 11px 31px;
   background: none;
   color: #ffffff;
-  border: 1px solid #ffffff;
+  border: 1px solid currentColor;
 }
 
 .lots {
@@ -255,7 +255,7 @@ body {
   color: #000000;
 }
 
-.test-2 {
+.about__column-logo-text {
   display: flex;
   align-items: center;
   margin-left: 47px;
@@ -324,7 +324,7 @@ body {
   line-height: 24.3px;
   font-style: normal;
 }
-.footer_123 {
+.footer_indentation {
   padding-left: 20px;
 }
 .footer_address-item {
