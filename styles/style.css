@@ -306,8 +306,8 @@ body {
   text-align: left;
 }
 .footer {
-  margin-top: 170px;
-  margin-bottom: 78px;
+  margin-top: 165px;
+  margin-bottom: 83px;
   margin-left: 50px;
   margin-right: 50px;
   width: 100%;
@@ -316,7 +316,7 @@ body {
 }
 
 .footer_indentation {
-  padding-left: 40px;
+  padding-left: 45px;
 }
 
 .footer_links-list-item {
