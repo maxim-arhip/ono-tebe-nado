@@ -29,7 +29,7 @@ body {
   text-decoration: none;
 }
 .header-link-item {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 21.13px;
@@ -54,7 +54,7 @@ body {
 }
 
 .address {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 24.3px;
@@ -105,7 +105,7 @@ body {
 }
 
 .no-letter-spacing-small {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
   line-height: 115px;
@@ -119,10 +119,10 @@ body {
 }
 
 .no-letter-spacing-medium {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
-  line-height: 100px;
+  line-height: 120px;
   letter-spacing: 30px;
   text-align: center;
 }
@@ -133,7 +133,7 @@ body {
 }
 
 .letter-spacing-extended-big {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
   line-height: 120px;
@@ -143,10 +143,10 @@ body {
 
 .no-letter-spacing-big {
   letter-spacing: 30px;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
-  line-height: 100px;
+  line-height: 120px;
   text-align: right;
 }
 
@@ -160,7 +160,7 @@ body {
 }
 
 .bottom-content_text {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 28px;
@@ -169,7 +169,7 @@ body {
 }
 
 .button {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 22px;
   font-weight: 500;
   line-height: 25.83px;
@@ -186,7 +186,7 @@ body {
   margin-right: 24px;
 }
 .lots__heading {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 40px;
   font-weight: 700;
   line-height: 46.96px;
@@ -236,7 +236,7 @@ body {
 }
 
 .card__text {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
@@ -244,7 +244,7 @@ body {
 }
 
 .lots_look-more-link {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 23.48px;
@@ -287,7 +287,7 @@ body {
   justify-content: center;
 }
 .about__title {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 40px;
   font-weight: 700;
   line-height: 46.96px;
@@ -303,7 +303,7 @@ body {
 }
 .about__text {
   gap: 24px;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
@@ -324,7 +324,7 @@ body {
 }
 
 .footer_links-list-item {
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 21.13px;
