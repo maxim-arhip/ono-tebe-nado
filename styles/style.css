@@ -110,23 +110,26 @@ body {
   font-weight: 700;
   line-height: 115px;
   letter-spacing: 30px;
+  text-align: left;
 }
 
 .letter-spacing-extended-small {
   letter-spacing: 60px;
+  text-align: left;
 }
 
 .no-letter-spacing-medium {
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
-  line-height: 120px;
+  line-height: 100px;
   letter-spacing: 30px;
-  text-indent: 286px;
+  text-align: center;
 }
 
 .letter-spacing-extended-medium {
   letter-spacing: 60px;
+  text-align: center;
 }
 
 .letter-spacing-extended-big {
@@ -135,7 +138,7 @@ body {
   font-weight: 700;
   line-height: 120px;
   letter-spacing: 60px;
-  text-indent: 583px;
+  text-align: right;
 }
 
 .no-letter-spacing-big {
@@ -144,6 +147,7 @@ body {
   font-size: 100px;
   font-weight: 700;
   line-height: 100px;
+  text-align: right;
 }
 
 .bottom-content {
