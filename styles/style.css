@@ -102,12 +102,12 @@ body {
   flex-direction: column;
   color: #ffffff;
   text-transform: uppercase;
-}
-
-.no-letter-spacing-small {
   font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
+}
+
+.no-letter-spacing-small {
   line-height: 115px;
   letter-spacing: 30px;
   text-align: left;
@@ -119,9 +119,6 @@ body {
 }
 
 .no-letter-spacing-medium {
-  font-family: Raleway, Arial, sans-serif;
-  font-size: 100px;
-  font-weight: 700;
   line-height: 120px;
   letter-spacing: 30px;
   text-align: center;
@@ -133,9 +130,6 @@ body {
 }
 
 .letter-spacing-extended-big {
-  font-family: Raleway, Arial, sans-serif;
-  font-size: 100px;
-  font-weight: 700;
   line-height: 120px;
   letter-spacing: 60px;
   text-align: right;
@@ -143,9 +137,6 @@ body {
 
 .no-letter-spacing-big {
   letter-spacing: 30px;
-  font-family: Raleway, Arial, sans-serif;
-  font-size: 100px;
-  font-weight: 700;
   line-height: 120px;
   text-align: right;
 }
