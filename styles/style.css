@@ -120,9 +120,10 @@ body {
 }
 
 .no-letter-spacing-medium {
-  line-height: 115px;
+  line-height: 120px;
   letter-spacing: 30px;
   text-align: center;
+  max-height: 115px;
 }
 
 .letter-spacing-extended-medium {
@@ -131,10 +132,11 @@ body {
 }
 
 .letter-spacing-extended-big {
-  line-height: 123px;
+  line-height: 128px;
   letter-spacing: 60px;
   text-align: right;
   min-width: 1030px;
+  max-height: 115px;
 }
 
 .no-letter-spacing-big {
