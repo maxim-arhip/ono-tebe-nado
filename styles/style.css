@@ -120,10 +120,9 @@ body {
 }
 
 .no-letter-spacing-medium {
-  line-height: 120px;
+  line-height: 115px;
   letter-spacing: 30px;
   text-align: center;
-  max-height: 115px;
 }
 
 .letter-spacing-extended-medium {
@@ -132,11 +131,10 @@ body {
 }
 
 .letter-spacing-extended-big {
-  line-height: 128px;
+  line-height: 123px;
   letter-spacing: 60px;
   text-align: right;
   min-width: 1030px;
-  max-height: 115px;
 }
 
 .no-letter-spacing-big {
@@ -195,18 +193,15 @@ body {
   flex-direction: row;
   grid-template-columns: repeat(3, 334px);
   gap: 25px;
+  margin-bottom: 30px;
 }
 
 .lots-card {
   padding: 51px 40px 48px 40px;
   min-height: 464px;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-bottom: 30px;
   position: relative;
 }
 
@@ -220,13 +215,19 @@ body {
   line-height: 26.4px;
 }
 
-.lots-card:first-child {
+.lots-card-link {
+  text-decoration: none;
+  background-position: center;
+  background-size: cover;
+}
+
+.lots-card-link--film {
   background-image: url("../images/card-lot-01.jpg");
 }
-.lots-card:nth-child(2) {
+.lots-card-link--book {
   background-image: url("../images/card-lot-02.jpg");
 }
-.lots-card:nth-child(3) {
+.lots-card-link--picture {
   background-image: url("../images/card-lot-03.jpg");
 }
 
