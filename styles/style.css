@@ -105,6 +105,7 @@ body {
   font-family: Raleway, Arial, sans-serif;
   font-size: 100px;
   font-weight: 700;
+  max-width: 1000px;
 }
 
 .no-letter-spacing-small {
@@ -133,7 +134,7 @@ body {
   line-height: 123px;
   letter-spacing: 60px;
   text-align: right;
-  max-width: 1050px;
+  min-width: 1030px;
 }
 
 .no-letter-spacing-big {
