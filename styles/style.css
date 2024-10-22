@@ -120,7 +120,7 @@ body {
 }
 
 .no-letter-spacing-medium {
-  line-height: 125px;
+  line-height: 130px;
   letter-spacing: 30px;
   text-align: center;
 }
@@ -139,7 +139,7 @@ body {
 
 .no-letter-spacing-big {
   letter-spacing: 30px;
-  line-height: 110px;
+  line-height: 105px;
   text-align: right;
 }
 
